@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24508887043",
+    "project_id": "cancerai-98147",
+    "storage_bucket": "cancerai-98147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24508887043:android:4bf1c58905bd4b788f9e36",
+        "android_client_info": {
+          "package_name": "com.example.fa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24508887043-jims8141o5qf0uagqe7fdt1mrneot276.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxsQIFg2cNRJL0Ab-3In2goFmseE1kl44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24508887043-jims8141o5qf0uagqe7fdt1mrneot276.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
